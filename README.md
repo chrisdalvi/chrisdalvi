@@ -10,7 +10,7 @@ I am transitioning from Medical Billing into Data Analytics. I specialize in tra
 * **Visualization:** Power BI (DAX, Interactive Dashboards), Pivot Tables
 
 ### 📜 Certifications
-* **Certified Data Analyst (Gold Category)** | SkilloVilla | Accredited by NASSCOM FutureSkills
+* **Certified Data Analyst** | SkilloVilla | Accredited by NASSCOM FutureSkills
 
 ### 📧 Get in Touch
 * **LinkedIn:** [linkedin.com/in/chrisdalvi](https://linkedin.com/in/chrisdalvi)
