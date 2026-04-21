@@ -1,4 +1,6 @@
-# Hi, I'm Chris Dalvi 👋
+# About Me
+
+## Hi, I'm Chris Dalvi 👋
 
 ### Data Analytics Professional
 I am transitioning from Medical Billing into Data Analytics. I specialize in transforming raw data into actionable insights to support business decisions.
@@ -8,7 +10,7 @@ I am transitioning from Medical Billing into Data Analytics. I specialize in tra
 ### 🛠 Technical Skills
 * **Data Analysis:** SQL (Joins, Subqueries, Window Functions), Python (Pandas, NumPy), Advanced Excel
 * **Visualization:** Power BI (DAX, Interactive Dashboards), Pivot Tables
-
+  
 ### 📜 Certifications
 * **Certified Data Analyst** | SkilloVilla | Accredited by NASSCOM FutureSkills
 
