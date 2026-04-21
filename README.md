@@ -9,10 +9,12 @@ Detail-oriented professional transitioning into Data Analytics with a background
 
 ### 🛠️ Technical Skills
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Data Analysis** | `Python (Pandas, NumPy)`, `SQL (Joins, Window Functions)`, `Advanced Excel` |
-| **Visualization** | `Power BI (DAX, Interactive Dashboards)`, `Pivot Tables`, `Trend Analysis` |
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
@@ -47,16 +49,6 @@ Detail-oriented professional transitioning into Data Analytics with a background
   <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=4285F4" alt="Email" />
 </a>
 
----
-
-### 🛠️ Technical Toolbox
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
