@@ -21,7 +21,7 @@ Detail-oriented professional transitioning into Data Analytics with a background
 ### 🚀 Key Projects
 
 * 🐍 **[Python Marketing Analysis](https://github.com/chrisdalvi/Python-Marketing-Data-Analysis)**: Automated data cleaning and conducted EDA to identify trends.
-* 📊 **[NexusGoods Performance Dashboard | Power BI](https://github.com/chrisdalvi/NexusGoods-Sales-Performance-Dashboard)**: Created interactive dashboards with DAX to track sales trends and KPIs.
+* 📊 **[NexusGoods Performance Dashboard](https://github.com/chrisdalvi/NexusGoods-Sales-Performance-Dashboard)**: Created interactive dashboards with DAX to track sales trends and KPIs.
 * 💾 **[SQL Database]**: Executed complex queries and optimized database retrieval.
 
 ---
