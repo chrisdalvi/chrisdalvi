@@ -20,9 +20,13 @@ Detail-oriented professional transitioning into Data Analytics with a background
 
 ### 🚀 Key Projects
 
-* 🐍 **[Python Marketing Analysis](https://github.com/chrisdalvi/Python-Marketing-Data-Analysis)**: Automated data cleaning and conducted EDA to identify trends.
-* 📊 **[NexusGoods Performance Dashboard](https://github.com/chrisdalvi/NexusGoods-Sales-Performance-Dashboard)**: Created interactive dashboards with DAX to track sales trends and KPIs.
-* 💾 **[SQL Database]**: Executed complex queries and optimized database retrieval.
+* 🐍 **[Python Marketing Analysis](https://github.com/chrisdalvi/Python-Marketing-Data-Analysis)**: Cleaned and preprocessed marketing data using Pandas and NumPy, performed EDA to identify trends, and generated insights to support data-driven decisions.
+
+* 📊 **[NexusGoods Performance Dashboard](https://github.com/chrisdalvi/NexusGoods-Sales-Performance-Dashboard)**: Built an interactive Power BI dashboard using DAX to track KPIs such as revenue, orders, and customer ratings, with dynamic filtering and drill-through analysis.
+
+* 💾 **[SQL Database Analysis](https://github.com/chrisdalvi/SQL-airline-database-analysis)**: Analyzed relational airline data using SQL with joins, aggregations, and subqueries to solve business problems and extract meaningful insights.
+
+* 🛒 **[Freshco Hypermarket Sales Analysis](https://github.com/chrisdalvi/Excel-retail-sales-analysis-freshco)**: Performed retail data analysis in Excel using Pivot Tables and dashboards to track KPIs, analyze sales trends, and identify top and underperforming products.
 
 ---
 
